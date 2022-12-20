@@ -1,0 +1,15 @@
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\bin\Debug\net7.0\Exercise 10.exe
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\bin\Debug\net7.0\Exercise 10.deps.json
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\bin\Debug\net7.0\Exercise 10.runtimeconfig.json
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\bin\Debug\net7.0\Exercise 10.dll
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\bin\Debug\net7.0\Exercise 10.pdb
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.csproj.AssemblyReference.cache
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.AssemblyInfoInputs.cache
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.AssemblyInfo.cs
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.csproj.CoreCompileInputs.cache
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.dll
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\refint\Exercise 10.dll
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.pdb
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\Exercise 10.genruntimeconfig.cache
+C:\Users\79242\Desktop\C# Second HW\Exercise 10\obj\Debug\net7.0\ref\Exercise 10.dll
